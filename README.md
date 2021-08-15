@@ -1,2 +1,2 @@
 # Flask_Django_Snippets
-Same exmaples done with Flask or Django
+Same examples done with Flask or Django
